@@ -1,3 +1,7 @@
 .myblock{
     background-color:red;
+    text-decoration: dashed;
+    /* add some css to text */
+   
+    
 }
